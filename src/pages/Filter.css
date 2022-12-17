@@ -1,0 +1,27 @@
+.SortingList li{
+    list-style: none;
+}
+
+.SearchWrapper select {
+    width: 25%;
+    height: 40px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 0 10px;
+    font-size: 16px;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+.SearchWrapper button {
+    width: 25%;
+    height: 40px;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 0 10px;
+    font-size: smaller;
+    font-family: "Open sans", sans-serif;
+    background-color: black;
+    color:white;
+    margin-bottom: 10px;
+}
